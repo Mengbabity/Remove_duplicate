@@ -1,4 +1,5 @@
 # Remove_duplicate
+#wrong understanding
 #include<iostream>
 #include<vector>
 using namespace std;
